@@ -2,10 +2,12 @@
 🚀 DevOps Engineer | SIMS
 
 👀 Passionate About:
+
 Sharing knowledge on DevOps, Linux, Networking, and Cloud Technologies
 Proficient in tools like AWS, Terraform, Docker, Kubernetes, Jenkins, Bash, Ansible, and Git/GitHub
 
 🌱 What I Do:
+
 Simplify complex DevOps concepts and workflows.
 Help others learn and grow in their DevOps journey.
 
@@ -13,6 +15,7 @@ Help others learn and grow in their DevOps journey.
 I'm excited to connect with like-minded individuals eager to explore the world of DevOps and Cloud Engineering.
 
 📚 Explore My Blogs:
+
 🖋️ SubbuTechOps: https://subbutechops.com/
 
 🖋️ Hashnode: https://hashnode.com/@SubbuTechTutorials
