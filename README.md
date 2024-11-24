@@ -2,6 +2,7 @@
 - 👀 I’m working as a Devops Engineer in KIMS Hospitals 
 - 🌱 I like to share my knowledge regarding Devops, Linux, Networking, AWS,Terraform, Docker, K8s, Jenkins, BASH, Ansible, Git/GitHub
 - 💞️ I’m looking to collaborate on Devops Learning
+- Check my blogs @SubbuTechOps: https://subbutechops.com/
 - Check my blogs @Medium: https://medium.com/@subbareddysangham
 - Check my blogs @Hashnode: https://hashnode.com/@SubbuTechTutorials
 - 📫 How to reach me ....You can reach me at subbareddysangham@gmail.com
