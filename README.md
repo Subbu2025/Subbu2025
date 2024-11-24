@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Subbu2025
-- 👀 I’m working as a Devops Engineer in KIMS Hospitals 
-- 🌱 I like to share my knowledge regarding Devops, Linux, Networking, AWS,Terraform, Docker, K8s, Jenkins, BASH, Ansible, Git/GitHub
-- 💞️ I’m looking to collaborate on Devops Learning
-- Check my blogs @SubbuTechOps: https://subbutechops.com/
-- Check my blogs @Medium: https://medium.com/@subbareddysangham
-- Check my blogs @Hashnode: https://hashnode.com/@SubbuTechTutorials
-- 📫 How to reach me ....You can reach me at subbareddysangham@gmail.com
-<!---
-Subbu2025/Subbu2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Subbareddy Sangham
+🚀 DevOps Engineer | SIMS
+
+👀 Passionate About:
+
+Sharing knowledge on DevOps, Linux, Networking, and Cloud Technologies
+Proficient in tools like AWS, Terraform, Docker, Kubernetes, Jenkins, Bash, Ansible, and Git/GitHub
+🌱 What I Do:
+
+Simplify complex DevOps concepts and workflows.
+Help others learn and grow in their DevOps journey.
+💡 Let's Collaborate:
+
+I'm excited to connect with like-minded individuals eager to explore the world of DevOps and Cloud Engineering.
+📚 Explore My Blogs:
+
+🖋️ SubbuTechOps
+🖋️ Medium
+🖋️ Hashnode
+📫 Reach Me At:
+
+✉️ Email: subbareddysangham@gmail.com
+Let’s learn, share, grow, and build the future of DevOps together! 🌟
